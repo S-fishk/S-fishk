@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @S-fishk
-- 👀 I’m interested in computer vision
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in computer vision,uav and robotics
 - 📫 How to reach me 3232724259@qq.com
 
 <!---
